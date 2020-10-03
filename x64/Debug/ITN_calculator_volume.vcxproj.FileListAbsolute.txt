@@ -1,0 +1,2 @@
+C:\Users\BIMG_WTG\source\repos\ITN_calculator_volume\x64\Debug\ITN_calculator_volume.exe
+C:\Users\BIMG_WTG\source\repos\ITN_calculator_volume\x64\Debug\ITN_calculator_volume.pdb
